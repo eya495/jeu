@@ -15,8 +15,8 @@ class cases
      cases() { num_case=0 ;};
      cases(int );
      ~cases(){};
-     bool  calculeroiepos(player p );
-     void suruneoie ( player p );
+     //bool  calculeroiepos(player p );
+     //void suruneoie ( player p );
      void surcaseattente (  player p  );
      void surcaseteleport( player p );
      void surcasepiege( player p  );
